@@ -1,0 +1,34 @@
+{
+    "name": "thanhlk0803/mypackage",
+    "description": "mypackage",
+    "keywords": [
+        "mypackage"
+    ],
+    "authors": [
+        {
+            "name": "foostart",
+            "email": "foostart.com@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "thanhlk0803\\Mypackage\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "classmap": [
+
+        ]
+    },
+    "scripts": {
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "preferred-install": "dist"
+    }
+}
