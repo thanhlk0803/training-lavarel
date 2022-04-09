@@ -31,5 +31,6 @@ aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 </div>
 </nav>
 @yield('content')
+
 </body>
 </html>
