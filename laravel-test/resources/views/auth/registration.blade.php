@@ -36,13 +36,13 @@
                                    
                                 </div>
                                 <div class="form-group mb-3">
-                                    <input type="text" placeholder="MSSV" id="MSSV" class="form-control"
-                                        name="MSSV" required>
+                                    <input type="text" placeholder="Fname" id="Fname" class="form-control"
+                                        name="Fname" required>
                                    
                                 </div>
                                 <div class="form-group mb-3">
-                                    <input type="text" placeholder="DiaChi" id="DiaChi" class="form-control"
-                                        name="DiaChi" required>
+                                    <input type="text" placeholder="Lname" id="Lname" class="form-control"
+                                        name="Lname" required>
                                    
                                 </div>
                                 <div class="form-group mb-3">
