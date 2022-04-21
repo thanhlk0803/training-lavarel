@@ -22,8 +22,8 @@ class User extends Authenticatable
         'email',
         'password',
         'phone',
-        'DiaChi',
-        'MSSV',
+        'Fname',
+        'Lname',
 
 
     ];
